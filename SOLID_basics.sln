@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory_Pattern", "Factory_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP", "LSP\LSP.csproj", "{CB0BF179-97E2-49C0-8888-6E95F4D996AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy_Pattern", "Strategy_Pattern\Strategy_Pattern.csproj", "{90B8566E-A28E-4122-B982-6F45DE85FC46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CB0BF179-97E2-49C0-8888-6E95F4D996AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB0BF179-97E2-49C0-8888-6E95F4D996AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB0BF179-97E2-49C0-8888-6E95F4D996AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B8566E-A28E-4122-B982-6F45DE85FC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B8566E-A28E-4122-B982-6F45DE85FC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B8566E-A28E-4122-B982-6F45DE85FC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B8566E-A28E-4122-B982-6F45DE85FC46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
